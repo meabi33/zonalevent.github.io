@@ -1,0 +1,79 @@
+body { background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed ;
+}
+ 
+ul{
+    float:right;
+    }
+
+ul li{ 
+    display: inline-block;
+    color: red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    padding-left: 30px; 
+    padding-right: 30px;
+    font-size: 20px;
+    border: 1px solid;
+    transition: 0.3s ease-in-out;
+    cursor: pointer
+}
+ul li:hover{background-color: white;
+            color: black}
+
+ul li a{ color: red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 10%;
+    
+    transition: 0.3s ease-in-out
+}
+ul li a:hover{background-color: white;
+              color: black}
+ 
+div.category { }
+
+
+div.Title { 
+    color: black;
+    background: transparent;
+    font-size: 70px;
+    font-family: "Copperplate";
+    margin-top: 15%;
+    margin-left: 24%;
+    text-shadow: 5px -5px 10px white, 5px 5px 10px red;  
+    }
+
+div.subtitle{
+    color: black;
+    background: transparent;
+    font-size: 30px;
+    font-family: "Copperplate";
+    padding-top: 1%;
+    padding-left: 37%;
+    text-shadow: 10px -3px 10px white, 5px 5px 10px green;
+    }
+
+div.register{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: transparent;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 40%;
+    margin-top: 3%;
+    margin-right: 40%;
+    border: 2px solid yellow; 
+}
+div.register a{text-decoration: none;
+               color: white}
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+body{
+    background-position: cover;
+    background-attachment: fixed;
+    background-repeat: repeat-y;
+    color: white;
+    font-size: 15px;
+    font-family: Times New Roman;
+}
+
+h1{color:aqua;
+    font-family: ;
+    text-shadow: 6px 3px 9px red}
+
+div li img :hover{ width:"500" height="500"}
+
+div.vm li{ display: inline-block;
+           padding: 20px}
+        
+div.sm li{ display: inline-block;
+            padding: 20px}
+
+div.lo li{ display: inline-block;
+                padding: 20px}
+
+div.IT li{ display: inline-block;
+                    padding: 20px}
